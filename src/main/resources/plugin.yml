@@ -1,0 +1,10 @@
+name: DropGuard
+version: '1.0.0'
+main: fr.vulpinemc.dropguard.DropGuard
+api-version: '1.21'
+authors: [NotKoda_]
+description: Empêche le drop accidentel d'items au sol (double appui pour confirmer).
+permissions:
+  dropguard.bypass:
+    description: Permet de dropper directement sans confirmation.
+    default: false

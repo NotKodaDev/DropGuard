@@ -1,0 +1,8 @@
+# DropGuard
+# Fenêtre de confirmation en secondes : pendant cette durée, un second appui
+# sur la touche de drop (Q) permettra de jeter l'item tenu.
+confirm-window-seconds: 3
+
+# Message affiché au premier appui (peut être désactivé avec une chaîne vide).
+# Placeholders : {item} = nom de l'item tenu.
+confirm-message: "&7Pour confirmer, rappuie sur ta touche de drop &f(&bQ&f)&7 dans les &e3s&7 !"
